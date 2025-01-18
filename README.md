@@ -20,3 +20,14 @@ Setting RedCloud OS:
    2. Usually the last few videos - or the last - are the actual hacking but in a diferent setting (the instructor may start with diferent credentials and you will need to adapt the commands provided; nothing fancy or out of the scope, it's just not like TryHackMe where you copy and paste the exact same command line);
    3. The Hints are usefull, be aware that those commands need to get more arguments or parameters in order to work properly.
 
+   -----
+   Specific order?
+
+   This is an initial Multi-Cloud cert, so there is no time restriction or a rigid path to begin with. We have 3 major cloud providers to hack and regarding its complexity we could classify the following order from easy to difficult:
+   1. GCP
+   2. AWS
+   3. Azure
+
+   If you are a beginner, start with GCP and work your way up.
+   Hope it helps ;)
+
